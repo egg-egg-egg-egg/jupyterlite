@@ -1,29 +1,33 @@
-# JupyterLite Demo
+# 介绍
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+这是一个运行在网页的python，也就是说你所有的python代码都会在你的网页中运行，所有的文件也都会保存到你的本地。
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+无论是手机、平板、电脑只要有这个链接都可以使用，无需安装任何额外的内容。
 
-## ✨ Try it in your browser ✨
+- 目前暂时不能使用海龟库。
 
-➡️ **https://jupyterlite.github.io/demo**
+## 简单开始
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+### 控制台模式
+
+### jupyter notebook 模式
+
+
+
+## 设置语言
+
+点击`Settings` -> `language`选择中文，再点击`change and reload`即可修改为中文。
+
+![设置语言](./content/imags_readmefile/set_CN.gif)
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+需要的浏览版本:
 
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
+浏览器版本太低可能打不开。
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+## 设置编辑器
 
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
