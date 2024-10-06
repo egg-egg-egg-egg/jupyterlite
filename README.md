@@ -1,17 +1,25 @@
 ## 介绍
 
+[![lite-badge]][lite]
+
+[lite-badge]: https://jupyterlite.rtfd.io/en/latest/_static/badge.svg
+[lite]: https://egg-egg-egg-egg.github.io/jupyterlite
+
 这是一个运行在网页的python，也就是说你所有的python代码都会在你的网页中运行，所有的文件也都会保存到你的本地。
 
 无论是手机、平板、电脑只要能访问这个网站就可以使用，无需安装任何额外的环境。
 
 - 目前暂时不能使用海龟库。
 
+[](https://github.com/egg-egg-egg-egg/jupyterlite)
 
 ## 简单开始
 
 - 设置语言。
 
 - 三种运行python代码的方式。**比较推荐前两种。**
+
+[点我查看图片教程](https://github.com/egg-egg-egg-egg/jupyterlite)
 
 ## 设置语言
 
